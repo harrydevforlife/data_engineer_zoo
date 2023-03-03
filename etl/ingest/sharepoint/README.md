@@ -1,4 +1,4 @@
-# Ingest data from Microsoft Sharepoint
+# Ingest files from Microsoft Sharepoint
 
 ## 1. Using Office 365 & Microsoft Graph library for Python
 
