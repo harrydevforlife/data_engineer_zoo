@@ -15,3 +15,8 @@ password = ' '
 target_folder_url = 'Shared Documents/Test_Sharepoint'
 download_path = '/home/.../'
 ```
+
+## 2. Using Azure Active Directory & Microsoft Graph API
+
+- Setup App Register 
+- 
